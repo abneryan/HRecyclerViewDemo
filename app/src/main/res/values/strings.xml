@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HRecyclerViewDemo</string>
+
+    <string-array name="right_title_name">
+        <item>最新价</item>
+        <item>涨幅</item>
+        <item>成交量</item>
+        <item>最高</item>
+        <item>最低</item>
+        <item>买一</item>
+        <item>卖一</item>
+        <item>量比</item>
+    </string-array>
+</resources>
